@@ -1,5 +1,5 @@
 # SampleWearRepo
-
+SampleWearRepo is a wearable application which display weather information such as maximum and minimum temperatures, weather state on end user watch
 
 <h2>Installation</h2>
 On Linux and Mac OS, you can open the project on Android Studio and run <b>./gradlew assembleDebug</b> and <b>adb -d install app/{path-to-your-apk}</b> which is often <b>app/build/outputs/apk/{apk_file}</b>.
